@@ -5,7 +5,6 @@
 | Champ | Valeur |
 |---|---|
 | Date | 07/06/2025 |
-| Analyste | [Prénom Nom] |
 | Cible | UnCrackable L1 |
 | Outils | BeVigil v2.1.0 · Yaazhini v1.3.2 |
 | Périmètre | APK pédagogique — environnement isolé |
